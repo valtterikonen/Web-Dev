@@ -1,1 +1,1 @@
-All the weekly activities & reflection journal could be found in their own branches.
+All the weekly activities & reflection journal could be found from their own branches.
