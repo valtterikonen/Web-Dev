@@ -1,14 +1,14 @@
 Student Name: Valtteri Ikonen
-Week 3:
+Week 2:
 
 Challenges Faced:
 At first as a project team we didn't find the 'red thread' right away.
 
 What Went Well and Lessons Learned:
-Got deeper level understanding of react app usage.
+Lots of new apps and AI related softwares to help with coding process.
 
 Key Learning:
-Mainly focused on learning react app and css/html
+Skipping unneeded coding and leverage AI more.
 
 Online Resources:
 Homework linked videos.
@@ -18,20 +18,17 @@ Coping Strategies:
 Academic Progress:
 Leveraging AI and getting assigments done.
 
-There is a link for pair progamming repository;
-https://github.com/valtterikonen/week3-pair-programming-1
-
 Soft Skills Development:
 There are areas to work on, but overall better communication and more organized compared to last week.
 
 Project Management:
-The presenstation went well and we had great communication during competition.
+By the end of the week everyone started working on their own tasks, and from my perspective everyone seem'd pleased with their area.
 
 Final Thoughts:
-The competition was a cool event to work and interact with team.
+Looking back on this week's experiences, I'm proud of my efforts in the planning process and project managing. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
 
 Next Steps:
-More complex react app and html format usage.
+Next week, I believe, we are starting the actual coding of the website we been planning last weeks.
 
 Next Week:
-Week [4]: [5.2.-9.2.]
+Week [3]: [29.1.-2.2.]
