@@ -33,7 +33,7 @@ Final Thoughts:
 Overall great learning week. Competition was once again very giving and fun to participate in.
 
 Next Steps:
-Hopefully deeper level understanding of web development.
+Hopefully deeper level understanding of web development. .
 
 Next Week:
 Week [5]: [12.2.-16.2.]
